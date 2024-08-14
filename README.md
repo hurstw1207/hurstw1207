@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hurstw1207
+- 👋 Hi, I’m Willie
 - 👀 I’m interested in ... becoming a Cloud Engineer
 - 🌱 I’m currently learning ... Microsoft Azure 
 - 💞️ I’m looking to collaborate on ... Any AWS or Azure cloud projects
